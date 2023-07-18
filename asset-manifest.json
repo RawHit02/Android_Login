@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Android_Login/static/css/main.37b9c37f.css",
+    "main.js": "/Android_Login/static/js/main.a63f8457.js",
+    "static/js/787.7c23e2b9.chunk.js": "/Android_Login/static/js/787.7c23e2b9.chunk.js",
+    "index.html": "/Android_Login/index.html",
+    "main.37b9c37f.css.map": "/Android_Login/static/css/main.37b9c37f.css.map",
+    "main.a63f8457.js.map": "/Android_Login/static/js/main.a63f8457.js.map",
+    "787.7c23e2b9.chunk.js.map": "/Android_Login/static/js/787.7c23e2b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b9c37f.css",
+    "static/js/main.a63f8457.js"
+  ]
+}
